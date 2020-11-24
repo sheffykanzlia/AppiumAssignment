@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="260402" started-at="2020-11-24T16:13:16Z" finished-at="2020-11-24T16:17:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="260402" started-at="2020-11-24T16:13:16Z" finished-at="2020-11-24T16:17:36Z">
+      <class name="com.selendroid.test.TestScenarios">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="22129" started-at="2020-11-24T21:43:16Z" finished-at="2020-11-24T21:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapChromeLogobutton_Scenario3()[pri:1, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapChromeLogobutton_Scenario3" duration-ms="9251" started-at="2020-11-24T21:43:38Z" description="Tap on Chrome Logo button" finished-at="2020-11-24T21:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapChromeLogobutton_Scenario3 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20321" started-at="2020-11-24T21:43:47Z" finished-at="2020-11-24T21:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapFileLogobutton_Scenario4()[pri:2, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapFileLogobutton_Scenario4" duration-ms="24394" started-at="2020-11-24T21:44:07Z" description="Tap on File Logo button" finished-at="2020-11-24T21:44:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapFileLogobutton_Scenario4 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20289" started-at="2020-11-24T21:44:32Z" finished-at="2020-11-24T21:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapProgressBarbutton_Scenario5()[pri:3, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapProgressBarbutton_Scenario5" duration-ms="15762" started-at="2020-11-24T21:44:52Z" description="Tap on Progress Bar button" finished-at="2020-11-24T21:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapProgressBarbutton_Scenario5 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20873" started-at="2020-11-24T21:45:08Z" finished-at="2020-11-24T21:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapDisplayToasterbutton_Scenario6()[pri:4, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapDisplayToasterbutton_Scenario6" duration-ms="1662" started-at="2020-11-24T21:45:29Z" description="Tap on Display Toaster button" finished-at="2020-11-24T21:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapDisplayToasterbutton_Scenario6 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20085" started-at="2020-11-24T21:45:30Z" finished-at="2020-11-24T21:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapDisplayPopUpbutton_Scenario7()[pri:5, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapDisplayPopUpbutton_Scenario7" duration-ms="1026" started-at="2020-11-24T21:45:50Z" description="Tap on Display Pop Up button" finished-at="2020-11-24T21:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapDisplayPopUpbutton_Scenario7 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20472" started-at="2020-11-24T21:45:51Z" finished-at="2020-11-24T21:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyHomeScreen_Scenario1()[pri:6, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="verifyHomeScreen_Scenario1" duration-ms="2734" started-at="2020-11-24T21:46:12Z" description="Verify elements on home screen" finished-at="2020-11-24T21:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeScreen_Scenario1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20876" started-at="2020-11-24T21:46:15Z" finished-at="2020-11-24T21:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tapENbutton_Scenario2()[pri:7, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapENbutton_Scenario2" duration-ms="2862" started-at="2020-11-24T21:46:36Z" description="Tap on EN button" finished-at="2020-11-24T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapENbutton_Scenario2 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="22820" started-at="2020-11-24T21:46:38Z" finished-at="2020-11-24T21:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="FAIL" signature="tapUnhandledExceptionbutton_Scenario8_failTestCase()[pri:8, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="tapUnhandledExceptionbutton_Scenario8_failTestCase" duration-ms="7191" started-at="2020-11-24T21:47:01Z" description="Tap on Unhandled Exception button" finished-at="2020-11-24T21:47:08Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RGARG', ip: '192.168.1.107', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, deviceName: One Plus 5, newCommandTimeout: 120, platformName: android, platformVersion: 7.1, resetKeyboard: true, udid: d7010f8c, unicodeKeyboard: true}, deviceApiLevel: 25, deviceManufacturer: OnePlus, deviceModel: ONEPLUS A5000, deviceName: d7010f8c, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: d7010f8c, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, resetKeyboard: true, statBarHeight: 63, takesScreenshot: true, udid: d7010f8c, unicodeKeyboard: true, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 55ad87cd-2c5e-49e6-8229-b154493cd294
+*** Element info: {Using=id, value=io.selendroid.testapp:id/my_text_field}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RGARG', ip: '192.168.1.107', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, deviceName: One Plus 5, newCommandTimeout: 120, platformName: android, platformVersion: 7.1, resetKeyboard: true, udid: d7010f8c, unicodeKeyboard: true}, deviceApiLevel: 25, deviceManufacturer: OnePlus, deviceModel: ONEPLUS A5000, deviceName: d7010f8c, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: d7010f8c, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, resetKeyboard: true, statBarHeight: 63, takesScreenshot: true, udid: d7010f8c, unicodeKeyboard: true, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 55ad87cd-2c5e-49e6-8229-b154493cd294
+*** Element info: {Using=id, value=io.selendroid.testapp:id/my_text_field}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at com.selendroid.pages.HomeScreen.verify_HomeScreen_title(HomeScreen.java:80)
+	at com.selendroid.test.TestScenarios.tapUnhandledExceptionbutton_Scenario8_failTestCase(TestScenarios.java:155)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapUnhandledExceptionbutton_Scenario8_failTestCase -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="beforeTest" is-config="true" duration-ms="20398" started-at="2020-11-24T21:47:08Z" finished-at="2020-11-24T21:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="FAIL" signature="entertext_UnhandledException_Scenario9_failTestCase()[pri:9, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="entertext_UnhandledException_Scenario9_failTestCase" duration-ms="6099" started-at="2020-11-24T21:47:29Z" description="Enter text in Unhandled Exception button" finished-at="2020-11-24T21:47:35Z">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[androidx.test.uiautomator.StaleObjectException
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RGARG', ip: '192.168.1.107', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, deviceName: One Plus 5, newCommandTimeout: 120, platformName: android, platformVersion: 7.1, resetKeyboard: true, udid: d7010f8c, unicodeKeyboard: true}, deviceApiLevel: 25, deviceManufacturer: OnePlus, deviceModel: ONEPLUS A5000, deviceName: d7010f8c, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: d7010f8c, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, resetKeyboard: true, statBarHeight: 63, takesScreenshot: true, udid: d7010f8c, unicodeKeyboard: true, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 316e4d85-ebf1-47f3-b2c1-86da3d7a9d78]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: androidx.test.uiautomator.StaleObjectException
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RGARG', ip: '192.168.1.107', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Users\ROHIT GARG\git\App..., appActivity: "io.selendroid.testapp.Home..., appPackage: "io.selendroid.testapp", autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, deviceName: One Plus 5, newCommandTimeout: 120, platformName: android, platformVersion: 7.1, resetKeyboard: true, udid: d7010f8c, unicodeKeyboard: true}, deviceApiLevel: 25, deviceManufacturer: OnePlus, deviceModel: ONEPLUS A5000, deviceName: d7010f8c, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: d7010f8c, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, resetKeyboard: true, statBarHeight: 63, takesScreenshot: true, udid: d7010f8c, unicodeKeyboard: true, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 316e4d85-ebf1-47f3-b2c1-86da3d7a9d78
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at io.appium.java_client.DefaultGenericMobileElement.execute(DefaultGenericMobileElement.java:45)
+	at io.appium.java_client.MobileElement.execute(MobileElement.java:1)
+	at io.appium.java_client.android.AndroidElement.execute(AndroidElement.java:1)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at com.selendroid.pages.HomeScreen.entertext_unhandledException(HomeScreen.java:225)
+	at com.selendroid.test.TestScenarios.entertext_UnhandledException_Scenario9_failTestCase(TestScenarios.java:162)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entertext_UnhandledException_Scenario9_failTestCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selendroid.test.TestScenarios@77cd7a0]" name="afterMethod" is-config="true" duration-ms="1102" started-at="2020-11-24T21:47:35Z" finished-at="2020-11-24T21:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selendroid.test.TestScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

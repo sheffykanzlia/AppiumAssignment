@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.appiumframework.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.selendroid.test.TestScenarios">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="tapUnhandledExceptionbutton_Scenario8_failTestCase"/>
+          <include name="entertext_UnhandledException_Scenario9_failTestCase"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.selendroid.test.TestScenarios -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
